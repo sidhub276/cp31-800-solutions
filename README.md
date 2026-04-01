@@ -1,9 +1,9 @@
-# CP 800 Rating Practice
+# CP-31 800 Rating Solutions.
 
 This repository contains my solutions to 800-rated problems from the CP31 sheet.
 
 ## Structure
-- problems/ → contains all solutions
+- Problems contains all solutions
 
 ## Progress
 - [ ] Problem 1
