@@ -6,9 +6,7 @@ This repository contains my solutions to 800-rated problems from the CP-31 sheet
 - Problems contains all solutions
 
 ## Progress
-- [ ] Problem 1
-- [ ] Problem 2
-- [ ] Problem 3
+- [ ] Completed all 31 problems (800 rating)
 
 ## Language
 - C++
